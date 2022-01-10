@@ -1,0 +1,36 @@
+{
+  "id": "b47f662d-718f-4ee8-bc9b-9246bba2dddd",
+  "name": "TracoPackaging",
+  "publisher": "Wye Print",
+  "version": "0.0.0.1",
+  "brief": "",
+  "description": "TracoPackaging Extensions",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [
+    {
+      "id": "5452f323-059e-499a-9753-5d2c07eef904",
+      "name": "PrintVis",
+      "version": "19.2.3.0",
+      "publisher": "NovaVision Software A/S"
+    }
+  ],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "19.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": false,
+    "includeSourceInSymbolFile": false
+  },
+  "runtime": "8.0"
+}
